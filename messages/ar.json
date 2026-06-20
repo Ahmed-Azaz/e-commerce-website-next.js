@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "title": "نكست كومرس",
+    "description": "منتجات مميزة واحتياجات يومية وعروض تستحق التسوق."
+  },
+  "brand": "نكست كومرس",
+  "languageSwitcher": {
+    "en": "English",
+    "ar": "العربية"
+  },
+  "navbar": {
+    "products": "المنتجات",
+    "create": "إضافة",
+    "cart": "السلة",
+    "favorites": "المفضلة"
+  },
+  "home": {
+    "badge": "وصل حديثا",
+    "title": "تسوق اختيارات جديدة تناسب كل جزء من يومك.",
+    "description": "اكتشف منتجات مختارة في الجمال والتقنية والمنزل ونمط الحياة باسعار تجعل التجديد اسهل.",
+    "shopProducts": "تسوق المنتجات",
+    "addProduct": "إضافة منتج",
+    "featuredTitle": "منتجات مميزة",
+    "featuredDescription": "اختيارات مفضلة وصفقات لافتة ومنتجات رائجة."
+  },
+  "products": {
+    "title": "المنتجات",
+    "description": "تصفح المجموعة كاملة واعثر على منتجك المفضل القادم.",
+    "createProduct": "إضافة منتج",
+    "product": "منتج",
+    "view": "عرض",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "addToCart": "أضف إلى السلة",
+    "removeFromCart": "أزل من السلة",
+    "addToFavorites": "أضف إلى المفضلة",
+    "removeFromFavorites": "أزل من المفضلة",
+    "deleteError": "تعذر حذف المنتج حاليا.",
+    "previous": "المنتجات السابقة",
+    "next": "المنتجات التالية",
+    "editProduct": "تعديل المنتج",
+    "backToProducts": "العودة للمنتجات",
+    "rating": "تقييم",
+    "productNotFound": "المنتج غير موجود",
+    "productNotFoundDescription": "تعذر تحميل المنتج المطلوب."
+  },
+  "createProduct": {
+    "title": "إضافة منتج",
+    "description": "أضف منتجا جديدا إلى قائمة المتجر.",
+    "titleField": "العنوان",
+    "priceField": "السعر",
+    "thumbnailField": "رابط الصورة",
+    "descriptionField": "الوصف",
+    "categoryField": "الفئة",
+    "ratingField": "التقييم",
+    "tagsField": "الوسوم (مفصولة بفواصل)",
+    "submit": "إضافة",
+    "submitting": "جارٍ الإضافة...",
+    "error": "تعذر حفظ المنتج حاليا.",
+    "cancel": "إلغاء"
+  },
+  "editProduct": {
+    "title": "تعديل المنتج",
+    "description": "حدّث التفاصيل التي يراها العملاء في المتجر.",
+    "titleField": "العنوان",
+    "priceField": "السعر",
+    "thumbnailField": "رابط الصورة",
+    "descriptionField": "الوصف",
+    "categoryField": "الفئة",
+    "ratingField": "التقييم",
+    "tagsField": "الوسوم (مفصولة بفواصل)",
+    "submit": "تحديث",
+    "submitting": "جارٍ التحديث...",
+    "error": "تعذر تحديث المنتج حاليا.",
+    "cancel": "إلغاء"
+  },
+  "cart": {
+    "title": "السلة",
+    "description": "راجع المنتجات التي اخترتها قبل إتمام الشراء.",
+    "emptyTitle": "سلتك فارغة",
+    "emptyDescription": "المنتجات التي تضيفها لاحقا ستظهر هنا.",
+    "browse": "تصفح المنتجات",
+    "view": "عرض",
+    "remove": "إزالة"
+  },
+  "favorites": {
+    "title": "المفضلة",
+    "description": "احتفظ بالمنتجات التي تعجبك في مكان واحد.",
+    "emptyTitle": "لا توجد مفضلة بعد",
+    "emptyDescription": "المنتجات المحفوظة ستظهر هنا.",
+    "browse": "استكشف المنتجات",
+    "view": "عرض",
+    "remove": "إزالة"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "الصفحة غير موجودة",
+    "goHome": "العودة للرئيسية"
+  },
+  "footer": {
+    "description": "متجر عصري لاحتياجاتك اليومية والهدايا المختارة والمنتجات المميزة.",
+    "aboutTitle": "من نحن",
+    "aboutText": "نختار منتجات عملية في الجمال والمنزل والتقنية مع تجربة تسوق سهلة وجودة موثوقة.",
+    "contactTitle": "تواصل معنا",
+    "email": "hello@nextcommerce.store",
+    "phone": "+20 100 555 0147",
+    "hours": "الدعم يوميا من 9:00 إلى 18:00",
+    "helpTitle": "خدمة العملاء",
+    "shipping": "تحديثات الشحن والتوصيل",
+    "returns": "إرجاع سهل خلال 30 يوما",
+    "support": "مساعدة ودودة متى احتجتها",
+    "trademark": "نكست كومرس. جميع الحقوق محفوظة."
+  },
+  "categories": {
+    "beauty": "الجمال",
+    "fragrances": "العطور",
+    "furniture": "الأثاث",
+    "groceries": "البقالة",
+    "home-decoration": "ديكور المنزل",
+    "kitchen-accessories": "اكسسوارات المطبخ",
+    "laptops": "أجهزة لابتوب",
+    "mens-shirts": "قمصان رجالية",
+    "mens-shoes": "أحذية رجالية",
+    "mens-watches": "ساعات رجالية",
+    "mobile-accessories": "اكسسوارات الجوال",
+    "motorcycle": "دراجة نارية",
+    "skin-care": "العناية بالبشرة",
+    "smartphones": "هواتف ذكية",
+    "sports-accessories": "اكسسوارات رياضية",
+    "sunglasses": "نظارات شمسية",
+    "tablets": "أجهزة لوحية",
+    "tops": "ملابس علوية",
+    "vehicle": "مركبة",
+    "womens-bags": "حقائب نسائية",
+    "womens-dresses": "فساتين نسائية",
+    "womens-jewellery": "مجوهرات نسائية",
+    "womens-shoes": "أحذية نسائية",
+    "womens-watches": "ساعات نسائية"
+  }
+}

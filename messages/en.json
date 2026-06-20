@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "title": "Next Commerce",
+    "description": "Fresh finds, everyday essentials, and standout deals."
+  },
+  "brand": "Next Commerce",
+  "languageSwitcher": {
+    "en": "English",
+    "ar": "العربية"
+  },
+  "navbar": {
+    "products": "Products",
+    "create": "Create",
+    "cart": "Cart",
+    "favorites": "Favorites"
+  },
+  "home": {
+    "badge": "New season arrivals",
+    "title": "Shop fresh finds for every part of your day.",
+    "description": "Explore curated picks across beauty, tech, home, and lifestyle with prices that make upgrading feel easy.",
+    "shopProducts": "Shop Products",
+    "addProduct": "Add Product",
+    "featuredTitle": "Featured Products",
+    "featuredDescription": "Customer favorites, trending essentials, and standout deals."
+  },
+  "products": {
+    "title": "Products",
+    "description": "Browse the full collection and find your next favorite.",
+    "createProduct": "Create Product",
+    "product": "Product",
+    "view": "View",
+    "edit": "Edit",
+    "delete": "Delete",
+    "addToCart": "Add to cart",
+    "removeFromCart": "Remove from cart",
+    "addToFavorites": "Add to favorites",
+    "removeFromFavorites": "Remove from favorites",
+    "deleteError": "Unable to delete the product right now.",
+    "previous": "Previous products",
+    "next": "Next products",
+    "editProduct": "Edit Product",
+    "backToProducts": "Back to Products",
+    "rating": "rating",
+    "productNotFound": "Product Not Found",
+    "productNotFoundDescription": "The requested product could not be loaded."
+  },
+  "createProduct": {
+    "title": "Create Product",
+    "description": "Add a new item to the store catalog.",
+    "titleField": "Title",
+    "priceField": "Price",
+    "thumbnailField": "Thumbnail URL",
+    "descriptionField": "Description",
+    "categoryField": "Category",
+    "ratingField": "Rating",
+    "tagsField": "Tags (comma-separated)",
+    "submit": "Create",
+    "submitting": "Creating...",
+    "error": "Unable to save the product right now.",
+    "cancel": "Cancel"
+  },
+  "editProduct": {
+    "title": "Edit Product",
+    "description": "Refresh the details customers see in the catalog.",
+    "titleField": "Title",
+    "priceField": "Price",
+    "thumbnailField": "Thumbnail URL",
+    "descriptionField": "Description",
+    "categoryField": "Category",
+    "ratingField": "Rating",
+    "tagsField": "Tags (comma-separated)",
+    "submit": "Update",
+    "submitting": "Updating...",
+    "error": "Unable to update the product right now.",
+    "cancel": "Cancel"
+  },
+  "cart": {
+    "title": "Cart",
+    "description": "Review your selected items before checkout.",
+    "emptyTitle": "Your cart is empty",
+    "emptyDescription": "Products you add later will appear here.",
+    "browse": "Browse Products",
+    "view": "View",
+    "remove": "Remove"
+  },
+  "favorites": {
+    "title": "Favorites",
+    "description": "Keep track of the products you love most.",
+    "emptyTitle": "No favorites yet",
+    "emptyDescription": "Saved products will be collected here.",
+    "browse": "Explore Products",
+    "view": "View",
+    "remove": "Remove"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Page Not Found",
+    "goHome": "Go Home"
+  },
+  "footer": {
+    "description": "A modern store for everyday upgrades, thoughtful gifts, and standout essentials.",
+    "aboutTitle": "About",
+    "aboutText": "We curate practical pieces across beauty, home, and tech with a focus on quality and easy shopping.",
+    "contactTitle": "Contact Us",
+    "email": "hello@nextcommerce.store",
+    "phone": "+20 100 555 0147",
+    "hours": "Daily support from 9:00 to 18:00",
+    "helpTitle": "Customer Care",
+    "shipping": "Shipping and delivery updates",
+    "returns": "Easy returns within 30 days",
+    "support": "Friendly help whenever you need it",
+    "trademark": "Next Commerce. All rights reserved."
+  },
+  "categories": {
+    "beauty": "Beauty",
+    "fragrances": "Fragrances",
+    "furniture": "Furniture",
+    "groceries": "Groceries",
+    "home-decoration": "Home Decoration",
+    "kitchen-accessories": "Kitchen Accessories",
+    "laptops": "Laptops",
+    "mens-shirts": "Men's Shirts",
+    "mens-shoes": "Men's Shoes",
+    "mens-watches": "Men's Watches",
+    "mobile-accessories": "Mobile Accessories",
+    "motorcycle": "Motorcycle",
+    "skin-care": "Skin Care",
+    "smartphones": "Smartphones",
+    "sports-accessories": "Sports Accessories",
+    "sunglasses": "Sunglasses",
+    "tablets": "Tablets",
+    "tops": "Tops",
+    "vehicle": "Vehicle",
+    "womens-bags": "Women's Bags",
+    "womens-dresses": "Women's Dresses",
+    "womens-jewellery": "Women's Jewellery",
+    "womens-shoes": "Women's Shoes",
+    "womens-watches": "Women's Watches"
+  }
+}
